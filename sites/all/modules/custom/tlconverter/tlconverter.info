@@ -1,0 +1,6 @@
+name = Testlink Converter
+description = Testlink HTML export convert to xls
+dependencies[] = libraries (2.x)
+dependencies[] = phpexcel
+dependencies[] = entity
+core = 7.x
